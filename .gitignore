@@ -1,0 +1,8 @@
+# build output: regenerated and deployed by CI on every rebuild
+site/
+output/
+_render_check.html
+state/pending.json
+__pycache__/
+*.pyc
+.DS_Store

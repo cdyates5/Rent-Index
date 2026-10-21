@@ -1,0 +1,4 @@
+numpy==2.5.3
+pandas==3.0.5
+openpyxl==3.1.5
+playwright==1.56.0

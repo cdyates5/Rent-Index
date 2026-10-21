@@ -11,10 +11,10 @@
     "bls_atr": "bls.gov workbook: HTTP Error 403: Forbidden",
     "code": "rebuild.py"
   },
-  "checked_utc": "2026-10-21T04:04:03+00:00",
-  "built_utc": "2026-10-21T04:04:51+00:00",
+  "checked_utc": "2026-10-21T04:07:22+00:00",
+  "built_utc": "2026-10-21T04:08:06+00:00",
   "headline": {
-    "generated": "2026-10-21 04:04 UTC",
+    "generated": "2026-10-21 04:07 UTC",
     "asof_cpi": "2026-09",
     "asof_zori": "2026-09",
     "bls_status": "paused",

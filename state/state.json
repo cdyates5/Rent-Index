@@ -1,0 +1,51 @@
+{
+  "inputs": {
+    "cpi": "2026-09=450.402",
+    "zori": "2026-09=1931.9377",
+    "bls_atr": "unavailable",
+    "code": "89ac07cc3dc3f559"
+  },
+  "notes": {
+    "cpi": "BLS API",
+    "zori": "Zillow",
+    "bls_atr": "bls.gov workbook: HTTP Error 403: Forbidden",
+    "code": "rebuild.py"
+  },
+  "checked_utc": "2026-10-21T04:04:03+00:00",
+  "built_utc": "2026-10-21T04:04:51+00:00",
+  "headline": {
+    "generated": "2026-10-21 04:04 UTC",
+    "asof_cpi": "2026-09",
+    "asof_zori": "2026-09",
+    "bls_status": "paused",
+    "last_bls_print": "2025Q3",
+    "sources": {
+      "cpi": "BLS API v2",
+      "zori": "Zillow Research CSV (live)",
+      "ntr": "BLS via YCharts (2025Q3 vintage)",
+      "calib": "published anchors (BLS workbook unavailable)"
+    },
+    "nowcast": {
+      "q": "2026Q3",
+      "yoy": 2.013,
+      "lo": 1.68,
+      "hi": 2.347
+    },
+    "forecast": {
+      "q": "2027Q2",
+      "yoy": 2.241,
+      "lo": 0.606,
+      "hi": 3.876
+    },
+    "implied_cpi_rent": {
+      "m": "2027-06",
+      "h": 9,
+      "yoy": 2.924952323651343,
+      "yoy_u": 2.924952323651343,
+      "sd": 0.3549211654620643,
+      "level": 460.2109943888849
+    },
+    "wedge_pp_per_year": -0.74,
+    "redating_w": 0.2
+  }
+}

@@ -1,0 +1,2 @@
+built_utc,asof_cpi,asof_zori,cpi_source,calibration,w,wedge_pp,nowcast_q,nowcast_yoy,nowcast_lo,nowcast_hi,forecast_q,forecast_yoy,implied_cpi_month,implied_cpi_yoy
+2026-10-21 04:04 UTC,2026-09,2026-09,BLS API v2,published anchors (BLS workbook unavailable),0.2,-0.74,2026Q3,2.013,1.68,2.347,2027Q2,2.241,2027-06,2.924952323651343
